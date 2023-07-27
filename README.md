@@ -24,7 +24,7 @@ Senior Frontend developer - Черников Андрей ([Github]() | [Vk]() |
 - Циклы: [ссылка на урок](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/3_cycles/basic_cycles.md)
 - ~~Объекты (ссылки, копирование, свойства и методы, this) [ссылка на урок]()~~
     - Циклы для работы с
-      объектами [ссылка на материал](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/1_base/2_cycles/bonus.md)
+      объектами [ссылка на материал](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/4_objects/2_object_loop.md)
 - ~~Массивы и методы массивов: [ссылка на урок]()~~
 
 ## Ресурсы для тренировки
