@@ -14,15 +14,16 @@ Senior Frontend developer - Черников Андрей ([Github]() | [Vk]() |
 ## Дорожная карта
 
 - Вводное занятие (JS, переменные, типы данных,
-  условия): [ссылка на урок](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/1_base/0_what_is_JS/what_is_js.md)
+  условия): [ссылка на урок](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/1_base/1_what_is_js.md)
 - Базовые операторы, логические
   операторы: [ссылка на урок](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/1_base/2_operators.md)
 - Конструкция `Switch` и тернарный
   оператор `? :` [ссылка на урок](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/1_base/3_switch_ternar.md)
 - Функции в
-  JavaScript: [ссылка на урок](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/1_base/1_functions/functions.md)
+  JavaScript: [ссылка на урок](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/2_functions/functions.md)
 - Циклы: [ссылка на урок](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/3_cycles/basic_cycles.md)
-- ~~Объекты (ссылки, копирование, свойства и методы, this) [ссылка на урок]()~~
+- Объекты (ссылки, копирование, свойства и методы,
+  this) [ссылка на урок](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/4_objects/1_objects.md)
     - Циклы для работы с
       объектами [ссылка на материал](https://github.com/Mistrade/mistrade_basic_js_course/blob/main/4_objects/2_object_loop.md)
 - ~~Массивы и методы массивов: [ссылка на урок]()~~
