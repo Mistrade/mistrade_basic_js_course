@@ -825,7 +825,18 @@ let x = (1 && 2) ?? 3; // Работает без ошибок
   const b = '12';
   const c = a + b // сейчас будет 112, должно быть 13
   ```
-- 
+- Упростите код в переменной `message`:
+  ```javascript
+  const userName = 'Василий';
+  const userAge = 29;
+  const phoneNumber = '8-000-000-00-00';
+  const workTimeStart = '10:00';
+  const workTimeEnd = '20:00';
+  
+  const message = 'Пользователь: ' + userName + "(" + userAge + ' лет).' + ' Рабочий номер телефона: ' + phoneNumber + '. Часы работы: c ' + workTimeStart + ' до ' + workTimeEnd + '.'  
+  
+  console.log(message)  
+  ```
 
 ## <a id="learn">Дополнительный материал</a>
 
