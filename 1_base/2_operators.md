@@ -809,6 +809,23 @@ let x = (1 && 2) ?? 3; // Работает без ошибок
     value = "Не определено";
   }
   ```
+- Сократите код:
+  ```javascript
+  let result = 0;
+  result = result + 1;
+  result = result / 2;
+  result = result * 3;
+  result = result - 1;
+  result = result * result
+  ```
+  Подсказки [тут](#short_assignment) и [тут](#increment_decrement).
+- Исправьте код, чтобы результат сложения был верный:
+  ```javascript
+  const a = '1';
+  const b = '12';
+  const c = a + b // сейчас будет 112, должно быть 13
+  ```
+- 
 
 ## <a id="learn">Дополнительный материал</a>
 
